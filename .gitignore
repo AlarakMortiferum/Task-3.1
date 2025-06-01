@@ -1,0 +1,12 @@
+/data/
+/.idea/
+/*.iml
+*.log
+*.tmp
+*.bak
+*.db
+*.class
+*.jar
+*.exe
+*.DS_Store
+target/
