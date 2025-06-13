@@ -24,3 +24,6 @@ postgresql-test/
 git init
 git add .
 git commit -m "Initial commit with PostgreSQL setup and db-api.jar"
+
+## Скриншот
+![image](https://github.com/user-attachments/assets/5875fb48-54a9-40a3-9972-6b436cf7fdfc)
